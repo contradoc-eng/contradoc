@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @contradoc
+- 👀 I’m interested in automating the legal review process for small businesses
+- 🌱 I’m currently building machine learning, taxonomies and apps
+- 💞️ I’m looking for talent to join our team
+- 📫 How to reach me tzmartin@contradoc.com
